@@ -220,4 +220,8 @@ p {
   .box-work p:first-of-type {
     font-style: normal;
   }
+  .blocks h2:first-child {
+    text-align: center;
+  }
+  
 }
